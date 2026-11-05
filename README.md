@@ -1,5 +1,5 @@
 
-# Olá! Seja bem-vindo ao meu GitHub 👋
+# Olá! Seja bem-vindo ao meu GitHub 
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, interessado em desenvolvimento de software, banco de dados e tecnologia aplicada à resolução de problemas.
 
@@ -7,7 +7,7 @@ Atualmente, estou ampliando meus conhecimentos em programação, desenvolvimento
 
 ---
 
-## 🚀 Tecnologias e ferramentas
+##  Tecnologias e ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,c,mysql,git,github,vscode" />
@@ -24,7 +24,7 @@ Atualmente, estou ampliando meus conhecimentos em programação, desenvolvimento
 
 ---
 
-## 🎯 Interesses profissionais
+##  Interesses profissionais
 
 - Desenvolvimento de sistemas.
 - Desenvolvimento Back-End.
@@ -35,7 +35,7 @@ Atualmente, estou ampliando meus conhecimentos em programação, desenvolvimento
 
 ---
 
-## 💻 Projetos
+##  Projetos
 
 ### Planeta em Foco
 Projeto acadêmico de desenvolvimento web, com participação como colaborador.
@@ -56,12 +56,12 @@ O desenvolvimento envolveu diagramas, estruturação de tabelas, inserção de d
 
 ---
 
-## 📫 Contato
+##  Contato
 
 - LinkedIn: https://www.linkedin.com/in/felipe-dias-cardoso-60509b436?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - GitHub: https://github.com/Liped27
 
 ---
 <div align="center">
-  Sempre aprendendo, desenvolvendo e evoluindo. 🚀
+  Sempre aprendendo, desenvolvendo e evoluindo. 
 </div>
