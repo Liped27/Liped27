@@ -1,3 +1,6 @@
+
+# Olá! Seja bem-vindo ao meu GitHub 👋
+
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, interessado em desenvolvimento de software, banco de dados e tecnologia aplicada à resolução de problemas.
 
 Atualmente, estou ampliando meus conhecimentos em programação, desenvolvimento Back-End e modelagem de dados, buscando transformar o aprendizado acadêmico em soluções práticas.
