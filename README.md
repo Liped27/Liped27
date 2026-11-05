@@ -64,8 +64,8 @@ O desenvolvimento envolveu diagramas, estruturação de tabelas, inserção de d
 
 ## 📫 Contato
 
-- LinkedIn: LINK_DO_LINKEDIN
-- GitHub: https://github.com/SEU_USUARIO
+- LinkedIn: https://www.linkedin.com/in/felipe-dias-cardoso-60509b436?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- GitHub: https://github.com/Liped27
 
 ---
 <div align="center">
