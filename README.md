@@ -56,15 +56,6 @@ O desenvolvimento envolveu diagramas, estruturação de tabelas, inserção de d
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
 ## 📫 Contato
 
 - LinkedIn: https://www.linkedin.com/in/felipe-dias-cardoso-60509b436?utm_source=share_via&utm_content=profile&utm_medium=member_android
