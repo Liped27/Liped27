@@ -42,7 +42,7 @@ Projeto acadêmico de desenvolvimento web, com participação como colaborador.
 
 **Tecnologias:** HTML, CSS e JavaScript.
 
-[Ver repositório](LINK_DO_PROJETO)
+[Ver repositório]https://andreigabrielsilva.github.io/Planeta-em-Foco/
 
 ### Sistema de Gestão — Assistência Técnica de Computadores
 
